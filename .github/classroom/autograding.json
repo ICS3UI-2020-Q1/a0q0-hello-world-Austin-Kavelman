@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello World",
+      "setup": "javac Main.java",
+      "run": "java Main",
+      "input": "",
+      "output": "Hello World!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
